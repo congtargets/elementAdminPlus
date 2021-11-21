@@ -1,1 +1,1 @@
-study
+study https://github.com/lin-xin/vue-manage-system
